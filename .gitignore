@@ -1,0 +1,15 @@
+logs
+*.log
+
+pids
+*.pid
+*.seed
+
+#unpackage
+lib-cov
+coverage
+.grunt
+build/Release
+.lock-wscript
+
+node_modules
